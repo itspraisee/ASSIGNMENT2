@@ -1,0 +1,4 @@
+[container.image]
+repository="wsa2inc"
+name="perfomanceServer"
+tag="v0.1.0" 
